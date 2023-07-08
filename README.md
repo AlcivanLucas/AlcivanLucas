@@ -1,6 +1,11 @@
 ## Oi eu sou o Alcivan Lucas, um apaixonado por programação, dev mobile e back-and!
 
-##
+- 🔭 Atualmente estou trabalhando como freelancer, desevolvendo apps mobile e ferranmentas back-and
+- 🌱 Estou estudando TypeScript e ultilizando React, e Tailwind para estilização
+- 👯 Procuro trabalhar em um ambiente que seja propenso para me desenvolver com programador e 
+- 😄 Pronomes: Otipmus/Prime
+- ⚡ Gosto de ver o mundo com outro ponto de vista 👁️👁️
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
