@@ -15,6 +15,7 @@
 - 👯 Procuro trabalhar em um ambiente que seja propenso para me desenvolver com programador
 - 😄 Pronomes: Otipmus/Prime 🚙
 - ⚡ Gosto de ver o mundo com outro ponto de vista 👁️👁️
+- Obs: caso você seja do IBAMA o peba presente no perfil é meramente listrutivo 🪶
 
 ##
 
