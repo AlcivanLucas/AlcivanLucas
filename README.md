@@ -44,7 +44,6 @@
 <br>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=07bc0c&height=120&section=footer"/>
-
-
 ![snake gif](https://github.com/GalinGdS/GalinGdS/blob/output/github-contribution-grid-snake.svg)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=07bc0c&height=120&section=footer"/>
