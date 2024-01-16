@@ -31,6 +31,9 @@
 ![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
+### Top 100° na plataforma <a href="https://www.beecrowd.com.br/judge/pt/profile/815225" target="_blank">Beecrowd</a>  ![Beecrowd Top 100](https://img.shields.io/badge/Beecrowd-Top%20100-%23brightgreen)
+
+### Contato
 <div> 
   <a href="https://www.instagram.com/alcivan_lucas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:alcivan.sousa@somosicev.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
