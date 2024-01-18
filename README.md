@@ -11,8 +11,8 @@
 
 
 
-- 🔭 Atualmente estou trabalhando como freelancer, desevolvendo apps mobile e ferranmentas back-and.
-- 👯 Procuro trabalhar em um ambiente que seja propenso para me desenvolver com programador.
+- 🔭 Atualmente estou trabalhando como freelancer, desevolvendo apps mobile e ferramentas back-and.
+- 👯 Procuro trabalhar em um ambiente que seja propenso para me desenvolver como desenvolvedor.
 - 😄 Pronomes: Otipmus/Prime 🚙.
 - ⚡ Gosto de ver o mundo com outro ponto de vista 👁️👁️.
 - Obs: caso você seja do IBAMA o peba presente no perfil é meramente listrutivo 🪶.
