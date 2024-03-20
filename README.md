@@ -44,6 +44,11 @@
 <div align="center">
 <br><p align="centre"><b>Contador de Visitas</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{AlcivanLucas}/count.svg"/></p> 
+<!--setInterval(() => {
+    window.location.reload();
+}, 100); // atualiza a página a cada 100 milisegudos kkk
+-->
+  
 <br>
 </div>
 
