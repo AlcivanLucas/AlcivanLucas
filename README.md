@@ -2,20 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FA9A&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Alcivan+Lucas;I'm+22+years+old;I'm+from+Brazil;I+Studing+Software+Engeering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlcivanLucas&bg_color=0d1117&color=00FF7F&line=00FF7F&point=60ffaf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+Engenheiro de Software Backend especializado em APIs escaláveis e sistemas de alta disponibilidade. Foco em NestJS, TypeScript, NodeJS, AWS e Kubernetes.
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AlcivanLucas" alt="AlcivanLucas github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AlcivanLucas" />
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-[![AlcivanLucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlcivanLucas)](https://github.com/AlcivanLucas/github-readme-stats)
-"https://github-readme-stats.vercel.app/api?username=AlcivanLucas&show_icons=true&count_private=true&hide_border=true&title_color=00FF7F&icon_color=00FF7F&text_color=c9d1d9&bg_color=0d1117"
+Principais conquistas:
+- Redução de 70% em custos operacionais via migração NoSQL para PostgreSQL, com otimização de consultas e cache.
+- Aceleração do time to market em ~40% com pipelines CI/CD e feature flags.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
-
-- 🔭 Atualmente estou trabalhando como freelancer, desevolvendo apps mobile e ferramentas back-and.
-- 👯 Procuro trabalhar em um ambiente que seja propenso para me desenvolver como desenvolvedor.
+Busco oportunidades para contribuir com crescimento e robustez de produtos através de arquiteturas sustentáveis.
 
 ##
 
