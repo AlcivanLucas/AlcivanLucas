@@ -5,17 +5,17 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlcivanLucas&bg_color=0d1117&color=00FF7F&line=00FF7F&point=60ffaf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AlcivanLucas&show_icons=true&count_private=true&hide_border=true&title_color=00FF7F&icon_color=00FF7F&text_color=c9d1d9&bg_color=0d1117" alt="AlcivanLucas github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlcivanLucas&layout=compact&hide_border=true&title_color=00FF7F&text_color=00FF7F&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AlcivanLucas" alt="AlcivanLucas github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AlcivanLucas" />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+[![AlcivanLucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlcivanLucas)](https://github.com/AlcivanLucas/github-readme-stats)
+"https://github-readme-stats.vercel.app/api?username=AlcivanLucas&show_icons=true&count_private=true&hide_border=true&title_color=00FF7F&icon_color=00FF7F&text_color=c9d1d9&bg_color=0d1117"
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
 - 🔭 Atualmente estou trabalhando como freelancer, desevolvendo apps mobile e ferramentas back-and.
 - 👯 Procuro trabalhar em um ambiente que seja propenso para me desenvolver como desenvolvedor.
-- 😄 Pronomes: Otipmus/Prime 🚙.
-- ⚡ Gosto de ver o mundo com outro ponto de vista 👁️👁️.
-- Obs: caso você seja do IBAMA o peba presente no perfil é meramente listrutivo 🪶.
 
 ##
 
